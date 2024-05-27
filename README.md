@@ -22,7 +22,6 @@ La aplicación permite enviar mediante Ajax, el un formulario de contactanos, as
 
     ```bash
     git clone https://github.com/GabrielBanda/test-fullstack-developer.git
-    cd MyProject
     ```
 
 2. Descargar el Xaampp en su version 8.2.12-0-VS16:
