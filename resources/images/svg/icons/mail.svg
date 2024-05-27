@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Elipse_6" data-name="Elipse 6" fill="none" stroke="#fff" stroke-width="2">
+    <circle cx="22.5" cy="22.5" r="22.5" stroke="none"/>
+    <circle cx="22.5" cy="22.5" r="21.5" fill="none"/>
+  </g>
+  <path id="Trazado_86" data-name="Trazado 86" d="M1.8,64A1.8,1.8,0,0,0,.719,67.238l8.154,6.115a1.2,1.2,0,0,0,1.439,0l8.154-6.115A1.8,1.8,0,0,0,17.387,64ZM0,68.2v7.794a2.4,2.4,0,0,0,2.4,2.4H16.787a2.4,2.4,0,0,0,2.4-2.4V68.2l-8.154,6.115a2.394,2.394,0,0,1-2.878,0Z" transform="translate(12.907 -48.194)" fill="#fff"/>
+</svg>
